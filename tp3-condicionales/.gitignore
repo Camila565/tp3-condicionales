@@ -1,0 +1,18 @@
+# Ignorar carpeta con repo embebido
+Condicionales-Tp-3/
+
+# Ignorar archivos temporales y de sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignorar entornos virtuales de Python
+venv/
+env/
+
+# Ignorar archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
